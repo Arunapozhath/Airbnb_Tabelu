@@ -19,8 +19,6 @@ You can view the interactive dashboard on Tableau Public at this link: [Airbnb D
 
 For convenience, here is an embedded version of the dashboard:
 
-For convenience, here is an embedded version of the dashboard:
-
 <div class='tableauPlaceholder' id='viz1730619184512' style='position: relative'>
     <noscript><a href='#'><img alt='Dashboard 1' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AI&#47;AIRBNB_WORK1&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
     <object class='tableauViz' style='display:none;'>
